@@ -8,7 +8,7 @@ I make, break, and fix stuff. Precisely In that order.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [arvind.droidholic@gmail.com](mailto:arvind.droidholic@gmail.com)
-* 🧠  I'm learning Redux Toolkit
+* 🧠  I'm learning DSA
 
 ### Skills
 
