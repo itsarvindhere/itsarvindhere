@@ -1,7 +1,7 @@
 Quick Fact
 ------------------------------
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Good specifications will always improve programmer productivity far better than any programming tool or technique.”— Milt Bryce   ❞</i>
+<i>❝“Without a systematic way to start and keep data clean, bad data will happen.”— Donato Diorio❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ------------------------------
 
